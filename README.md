@@ -39,4 +39,4 @@ snowfall: 'medium'
 
 # Thanks
 
-Thanks to orignal author and package [react-native-snow](https://github.com/ryanoboril/react-native-snow)
+Thanks to original author and package [react-native-snow](https://github.com/ryanoboril/react-native-snow)
