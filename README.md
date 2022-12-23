@@ -27,8 +27,6 @@ const App = () => {
 }
 ```
 
-<img src="https://s3.amazonaws.com/react-native-snow-screenshots/android.png" width="250" height="444" /> <img src="https://s3.amazonaws.com/react-native-snow-screenshots/ios.png" width="250" height="444" />
-
 # Props
 ```js
 // Specify color of snowflakes.
