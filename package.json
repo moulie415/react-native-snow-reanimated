@@ -1,6 +1,6 @@
 {
   "name": "react-native-snow-reanimated",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Rework of react-native-snow using react-native-reanimated and typescript",
   "main": "src/Snow.tsx",
   "scripts": {
