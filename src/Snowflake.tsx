@@ -44,7 +44,6 @@ const Snowflake: React.FC<{
   const translateY = useSharedValue(0);
 
   useEffect(() => {
-    console.log('test 1')
     _initAnimation()
   }, [])
 
