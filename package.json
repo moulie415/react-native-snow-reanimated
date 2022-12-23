@@ -1,0 +1,27 @@
+{
+  "name": "react-native-snow-reanimated",
+  "version": "1.0.0",
+  "description": "Rework of react-native-snow using react-native-reanimated and typescript",
+  "main": "src/Snow.tsx",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moulie415/react-native-snow-reanimated.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "snow",
+    "holiday",
+    "winter",
+    "weather"
+  ],
+  "author": "Henry Moule",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moulie415/react-native-snow-reanimated/issues"
+  },
+  "homepage": "https://github.com/moulie415/react-native-snow-reanimated#readme"
+}
