@@ -15,7 +15,7 @@ import Snow from 'react-native-snow-reanimated';
 ```
 
 Then add it anywhere in your JSX (you should only do this in one place!):
-```tsx
+```jsx
 const App = () => {
   return (
     <View>
