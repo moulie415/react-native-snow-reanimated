@@ -3,7 +3,7 @@ Rework of [react-native-snow](https://github.com/ryanoboril/react-native-snow) p
 
 # Usage
 To use, install the npm module:
-```ts
+```
 npm install --save react-native-snow-reanimated
 ```
 
